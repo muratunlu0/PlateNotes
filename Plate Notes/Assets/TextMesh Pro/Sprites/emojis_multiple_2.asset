@@ -1,0 +1,3636 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2019389346, guid: 89f0137620f6af44b9ba852b4190e64e, type: 3}
+  m_Name: emojis_multiple_2
+  m_EditorClassIdentifier: 
+  hashCode: 861974805
+  material: {fileID: 21615345743368046}
+  materialHashCode: 0
+  spriteSheet: {fileID: 2800000, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_0
+    hashCode: -1907273446
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300000, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 1
+    x: 32
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_1
+    hashCode: -1907273445
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300002, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 2
+    x: 64
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_2
+    hashCode: -1907273448
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300004, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 3
+    x: 96
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_3
+    hashCode: -1907273447
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300006, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 4
+    x: 128
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_4
+    hashCode: -1907273442
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300008, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 5
+    x: 160
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_5
+    hashCode: -1907273441
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300010, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 6
+    x: 192
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_6
+    hashCode: -1907273444
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300012, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 7
+    x: 224
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_7
+    hashCode: -1907273443
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300014, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 8
+    x: 256
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_8
+    hashCode: -1907273454
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300016, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 9
+    x: 288
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_9
+    hashCode: -1907273453
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300018, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 10
+    x: 320
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_10
+    hashCode: 1484485707
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300020, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 11
+    x: 352
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_11
+    hashCode: 1484485706
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300022, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 12
+    x: 384
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_12
+    hashCode: 1484485705
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300024, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 13
+    x: 416
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_13
+    hashCode: 1484485704
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300026, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 14
+    x: 448
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_14
+    hashCode: 1484485711
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300028, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 15
+    x: 480
+    y: 480
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_15
+    hashCode: 1484485710
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300030, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 16
+    x: 0
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_16
+    hashCode: 1484485709
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300032, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 17
+    x: 32
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_17
+    hashCode: 1484485708
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300034, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 18
+    x: 64
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_18
+    hashCode: 1484485699
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300036, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 19
+    x: 96
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_19
+    hashCode: 1484485698
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300038, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 20
+    x: 128
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_20
+    hashCode: 1484485672
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300040, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 21
+    x: 160
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_21
+    hashCode: 1484485673
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300042, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 22
+    x: 192
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_22
+    hashCode: 1484485674
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300044, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 23
+    x: 224
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_23
+    hashCode: 1484485675
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300046, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 24
+    x: 256
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_24
+    hashCode: 1484485676
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300048, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 25
+    x: 288
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_25
+    hashCode: 1484485677
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300050, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 26
+    x: 320
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_26
+    hashCode: 1484485678
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300052, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 27
+    x: 352
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_27
+    hashCode: 1484485679
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300054, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 28
+    x: 384
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_28
+    hashCode: 1484485664
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300056, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 29
+    x: 416
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_29
+    hashCode: 1484485665
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300058, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 30
+    x: 448
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_30
+    hashCode: 1484485641
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300060, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 31
+    x: 480
+    y: 448
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_31
+    hashCode: 1484485640
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300062, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 32
+    x: 0
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_32
+    hashCode: 1484485643
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300064, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 33
+    x: 32
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_33
+    hashCode: 1484485642
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300066, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 34
+    x: 64
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_34
+    hashCode: 1484485645
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300068, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 35
+    x: 96
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_35
+    hashCode: 1484485644
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300070, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 36
+    x: 128
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_36
+    hashCode: 1484485647
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300072, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 37
+    x: 160
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_37
+    hashCode: 1484485646
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300074, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 38
+    x: 192
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_38
+    hashCode: 1484485633
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300076, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 39
+    x: 224
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_39
+    hashCode: 1484485632
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300078, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 40
+    x: 256
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_40
+    hashCode: 1484485870
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300080, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 41
+    x: 288
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_41
+    hashCode: 1484485871
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300082, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 42
+    x: 320
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_42
+    hashCode: 1484485868
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300084, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 43
+    x: 352
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_43
+    hashCode: 1484485869
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300086, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 44
+    x: 384
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_44
+    hashCode: 1484485866
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300088, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 45
+    x: 416
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_45
+    hashCode: 1484485867
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300090, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 46
+    x: 448
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_46
+    hashCode: 1484485864
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300092, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 47
+    x: 480
+    y: 416
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_47
+    hashCode: 1484485865
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300094, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 48
+    x: 0
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_48
+    hashCode: 1484485862
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300096, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 49
+    x: 32
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_49
+    hashCode: 1484485863
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300098, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 50
+    x: 64
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_50
+    hashCode: 1484485839
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300100, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 51
+    x: 96
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_51
+    hashCode: 1484485838
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300102, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 52
+    x: 128
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_52
+    hashCode: 1484485837
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300104, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 53
+    x: 160
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_53
+    hashCode: 1484485836
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300106, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 54
+    x: 192
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_54
+    hashCode: 1484485835
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300108, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 55
+    x: 224
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_55
+    hashCode: 1484485834
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300110, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 56
+    x: 256
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_56
+    hashCode: 1484485833
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300112, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 57
+    x: 288
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_57
+    hashCode: 1484485832
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300114, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 58
+    x: 320
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_58
+    hashCode: 1484485831
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300116, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 59
+    x: 352
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_59
+    hashCode: 1484485830
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300118, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 60
+    x: 384
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_60
+    hashCode: 1484485804
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300120, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 61
+    x: 416
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_61
+    hashCode: 1484485805
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300122, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 62
+    x: 448
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_62
+    hashCode: 1484485806
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300124, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 63
+    x: 480
+    y: 384
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_63
+    hashCode: 1484485807
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300126, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 64
+    x: 0
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_64
+    hashCode: 1484485800
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300128, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 65
+    x: 32
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_65
+    hashCode: 1484485801
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300130, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 66
+    x: 64
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_66
+    hashCode: 1484485802
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300132, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 67
+    x: 96
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_67
+    hashCode: 1484485803
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300134, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 68
+    x: 128
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_68
+    hashCode: 1484485796
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300136, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 69
+    x: 160
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_69
+    hashCode: 1484485797
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300138, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 70
+    x: 192
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_70
+    hashCode: 1484485773
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300140, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 71
+    x: 224
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_71
+    hashCode: 1484485772
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300142, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 72
+    x: 256
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_72
+    hashCode: 1484485775
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300144, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 73
+    x: 288
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_73
+    hashCode: 1484485774
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300146, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 74
+    x: 320
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_74
+    hashCode: 1484485769
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300148, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 75
+    x: 352
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_75
+    hashCode: 1484485768
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300150, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 76
+    x: 384
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_76
+    hashCode: 1484485771
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300152, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 77
+    x: 416
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_77
+    hashCode: 1484485770
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300154, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 78
+    x: 448
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_78
+    hashCode: 1484485765
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300156, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 79
+    x: 480
+    y: 352
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_79
+    hashCode: 1484485764
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300158, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 80
+    x: 0
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_80
+    hashCode: 1484485474
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300160, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 81
+    x: 32
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_81
+    hashCode: 1484485475
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300162, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 82
+    x: 64
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_82
+    hashCode: 1484485472
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300164, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 83
+    x: 96
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_83
+    hashCode: 1484485473
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300166, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 84
+    x: 128
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_84
+    hashCode: 1484485478
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300168, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 85
+    x: 160
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_85
+    hashCode: 1484485479
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300170, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 86
+    x: 192
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_86
+    hashCode: 1484485476
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300172, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 87
+    x: 224
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_87
+    hashCode: 1484485477
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300174, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 88
+    x: 256
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_88
+    hashCode: 1484485482
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300176, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 89
+    x: 288
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_89
+    hashCode: 1484485483
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300178, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 90
+    x: 320
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_90
+    hashCode: 1484485443
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300180, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 91
+    x: 352
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_91
+    hashCode: 1484485442
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300182, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 92
+    x: 384
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_92
+    hashCode: 1484485441
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300184, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 93
+    x: 416
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_93
+    hashCode: 1484485440
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300186, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 94
+    x: 448
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_94
+    hashCode: 1484485447
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300188, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 95
+    x: 480
+    y: 320
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_95
+    hashCode: 1484485446
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300190, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 96
+    x: 0
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_96
+    hashCode: 1484485445
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300192, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 97
+    x: 32
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_97
+    hashCode: 1484485444
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300194, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 98
+    x: 64
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_98
+    hashCode: 1484485451
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300196, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 99
+    x: 96
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_99
+    hashCode: 1484485450
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300198, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 100
+    x: 128
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_100
+    hashCode: 1743388059
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300200, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 101
+    x: 160
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_101
+    hashCode: 1743388058
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300202, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 102
+    x: 192
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_102
+    hashCode: 1743388057
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300204, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 103
+    x: 224
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_103
+    hashCode: 1743388056
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300206, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 104
+    x: 256
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_104
+    hashCode: 1743388063
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300208, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 105
+    x: 288
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_105
+    hashCode: 1743388062
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300210, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 106
+    x: 320
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_106
+    hashCode: 1743388061
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300212, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 107
+    x: 352
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_107
+    hashCode: 1743388060
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300214, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 108
+    x: 384
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_108
+    hashCode: 1743388051
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300216, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 109
+    x: 416
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_109
+    hashCode: 1743388050
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300218, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 110
+    x: 448
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_110
+    hashCode: 1743388090
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300220, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 111
+    x: 480
+    y: 288
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_111
+    hashCode: 1743388091
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300222, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 112
+    x: 0
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_112
+    hashCode: 1743388088
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300224, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 113
+    x: 32
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_113
+    hashCode: 1743388089
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300226, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 114
+    x: 64
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_114
+    hashCode: 1743388094
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300228, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 115
+    x: 96
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_115
+    hashCode: 1743388095
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300230, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 116
+    x: 128
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_116
+    hashCode: 1743388092
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300232, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 117
+    x: 160
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_117
+    hashCode: 1743388093
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300234, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 118
+    x: 192
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_118
+    hashCode: 1743388082
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300236, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 119
+    x: 224
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_119
+    hashCode: 1743388083
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300238, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 120
+    x: 256
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_120
+    hashCode: 1743387993
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300240, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 121
+    x: 288
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_121
+    hashCode: 1743387992
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300242, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 122
+    x: 320
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_122
+    hashCode: 1743387995
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300244, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 123
+    x: 352
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_123
+    hashCode: 1743387994
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300246, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 124
+    x: 384
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_124
+    hashCode: 1743387997
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300248, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 125
+    x: 416
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_125
+    hashCode: 1743387996
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300250, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 126
+    x: 448
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_126
+    hashCode: 1743387999
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300252, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 127
+    x: 480
+    y: 256
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.799988
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_127
+    hashCode: 1743387998
+    unicode: 0
+    pivot: {x: 0, y: 28.799988}
+    sprite: {fileID: 21300254, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 128
+    x: 0
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_128
+    hashCode: 1743387985
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300256, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 129
+    x: 32
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_129
+    hashCode: 1743387984
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300258, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 130
+    x: 64
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_130
+    hashCode: 1743388024
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300260, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 131
+    x: 96
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_131
+    hashCode: 1743388025
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300262, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 132
+    x: 128
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_132
+    hashCode: 1743388026
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300264, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 133
+    x: 160
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_133
+    hashCode: 1743388027
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300266, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 134
+    x: 192
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_134
+    hashCode: 1743388028
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300268, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 135
+    x: 224
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_135
+    hashCode: 1743388029
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300270, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 136
+    x: 256
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_136
+    hashCode: 1743388030
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300272, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 137
+    x: 288
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_137
+    hashCode: 1743388031
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300274, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 138
+    x: 320
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_138
+    hashCode: 1743388016
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300276, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 139
+    x: 352
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_139
+    hashCode: 1743388017
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300278, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 140
+    x: 384
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_140
+    hashCode: 1743388191
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300280, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 141
+    x: 416
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_141
+    hashCode: 1743388190
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300282, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 142
+    x: 448
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_142
+    hashCode: 1743388189
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300284, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 143
+    x: 480
+    y: 224
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_143
+    hashCode: 1743388188
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300286, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 144
+    x: 0
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_144
+    hashCode: 1743388187
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300288, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 145
+    x: 32
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_145
+    hashCode: 1743388186
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300290, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 146
+    x: 64
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_146
+    hashCode: 1743388185
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300292, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 147
+    x: 96
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_147
+    hashCode: 1743388184
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300294, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 148
+    x: 128
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_148
+    hashCode: 1743388183
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300296, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 149
+    x: 160
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_149
+    hashCode: 1743388182
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300298, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 150
+    x: 192
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_150
+    hashCode: 1743388222
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300300, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 151
+    x: 224
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_151
+    hashCode: 1743388223
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300302, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 152
+    x: 256
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_152
+    hashCode: 1743388220
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300304, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 153
+    x: 288
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_153
+    hashCode: 1743388221
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300306, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 154
+    x: 320
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_154
+    hashCode: 1743388218
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300308, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 155
+    x: 352
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_155
+    hashCode: 1743388219
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300310, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 156
+    x: 384
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_156
+    hashCode: 1743388216
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300312, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 157
+    x: 416
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_157
+    hashCode: 1743388217
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300314, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 158
+    x: 448
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_158
+    hashCode: 1743388214
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300316, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 159
+    x: 480
+    y: 192
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_159
+    hashCode: 1743388215
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300318, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 160
+    x: 0
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_160
+    hashCode: 1743388125
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300320, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 161
+    x: 32
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_161
+    hashCode: 1743388124
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300322, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 162
+    x: 64
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_162
+    hashCode: 1743388127
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300324, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 163
+    x: 96
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_163
+    hashCode: 1743388126
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300326, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 164
+    x: 128
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_164
+    hashCode: 1743388121
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300328, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 165
+    x: 160
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_165
+    hashCode: 1743388120
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300330, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 166
+    x: 192
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_166
+    hashCode: 1743388123
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300332, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 167
+    x: 224
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_167
+    hashCode: 1743388122
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300334, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 168
+    x: 256
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_168
+    hashCode: 1743388117
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300336, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 169
+    x: 288
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_169
+    hashCode: 1743388116
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300338, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 170
+    x: 320
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_170
+    hashCode: 1743388156
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300340, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 171
+    x: 352
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_171
+    hashCode: 1743388157
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300342, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 172
+    x: 384
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_172
+    hashCode: 1743388158
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300344, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 173
+    x: 416
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_173
+    hashCode: 1743388159
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300346, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 174
+    x: 448
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_174
+    hashCode: 1743388152
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300348, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 175
+    x: 480
+    y: 160
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_175
+    hashCode: 1743388153
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300350, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 176
+    x: 0
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_176
+    hashCode: 1743388154
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300352, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 177
+    x: 32
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_177
+    hashCode: 1743388155
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300354, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 178
+    x: 64
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_178
+    hashCode: 1743388148
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300356, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 179
+    x: 96
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_179
+    hashCode: 1743388149
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300358, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 180
+    x: 128
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_180
+    hashCode: 1743387795
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300360, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 181
+    x: 160
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_181
+    hashCode: 1743387794
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300362, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 182
+    x: 192
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_182
+    hashCode: 1743387793
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300364, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 183
+    x: 224
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_183
+    hashCode: 1743387792
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300366, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 184
+    x: 256
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_184
+    hashCode: 1743387799
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300368, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 185
+    x: 288
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_185
+    hashCode: 1743387798
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300370, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 186
+    x: 320
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_186
+    hashCode: 1743387797
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300372, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 187
+    x: 352
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_187
+    hashCode: 1743387796
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300374, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 188
+    x: 384
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_188
+    hashCode: 1743387803
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300376, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 189
+    x: 416
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_189
+    hashCode: 1743387802
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300378, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 190
+    x: 448
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_190
+    hashCode: 1743387826
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300380, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 191
+    x: 480
+    y: 128
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_191
+    hashCode: 1743387827
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300382, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 192
+    x: 0
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_192
+    hashCode: 1743387824
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300384, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 193
+    x: 32
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_193
+    hashCode: 1743387825
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300386, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 194
+    x: 64
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_194
+    hashCode: 1743387830
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300388, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 195
+    x: 96
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_195
+    hashCode: 1743387831
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300390, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 196
+    x: 128
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_196
+    hashCode: 1743387828
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300392, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 197
+    x: 160
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_197
+    hashCode: 1743387829
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300394, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 198
+    x: 192
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_198
+    hashCode: 1743387834
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300396, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 199
+    x: 224
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_199
+    hashCode: 1743387835
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300398, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 200
+    x: 256
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_200
+    hashCode: 1743386904
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300400, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 201
+    x: 288
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_201
+    hashCode: 1743386905
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300402, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 202
+    x: 320
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_202
+    hashCode: 1743386906
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300404, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 203
+    x: 352
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_203
+    hashCode: 1743386907
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300406, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 204
+    x: 384
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_204
+    hashCode: 1743386908
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300408, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 205
+    x: 416
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_205
+    hashCode: 1743386909
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300410, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 206
+    x: 448
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_206
+    hashCode: 1743386910
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300412, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 207
+    x: 480
+    y: 96
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_207
+    hashCode: 1743386911
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300414, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 208
+    x: 0
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_208
+    hashCode: 1743386896
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300416, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 209
+    x: 32
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_209
+    hashCode: 1743386897
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300418, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 210
+    x: 64
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_210
+    hashCode: 1743387001
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300420, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 211
+    x: 96
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_211
+    hashCode: 1743387000
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300422, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 212
+    x: 128
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_212
+    hashCode: 1743387003
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300424, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 213
+    x: 160
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_213
+    hashCode: 1743387002
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300426, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 214
+    x: 192
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_214
+    hashCode: 1743387005
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300428, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 215
+    x: 224
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_215
+    hashCode: 1743387004
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300430, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 216
+    x: 256
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_216
+    hashCode: 1743387007
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300432, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 217
+    x: 288
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_217
+    hashCode: 1743387006
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300434, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 218
+    x: 320
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_218
+    hashCode: 1743386993
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300436, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 219
+    x: 352
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_219
+    hashCode: 1743386992
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300438, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 220
+    x: 384
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_220
+    hashCode: 1743386970
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300440, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 221
+    x: 416
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_221
+    hashCode: 1743386971
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300442, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 222
+    x: 448
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_222
+    hashCode: 1743386968
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300444, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 223
+    x: 480
+    y: 64
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.800005
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_223
+    hashCode: 1743386969
+    unicode: 0
+    pivot: {x: 0, y: 28.800005}
+    sprite: {fileID: 21300446, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 224
+    x: 0
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_224
+    hashCode: 1743386974
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300448, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 225
+    x: 32
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_225
+    hashCode: 1743386975
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300450, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 226
+    x: 64
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_226
+    hashCode: 1743386972
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300452, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 227
+    x: 96
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_227
+    hashCode: 1743386973
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300454, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 228
+    x: 128
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_228
+    hashCode: 1743386962
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300456, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 229
+    x: 160
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_229
+    hashCode: 1743386963
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300458, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 230
+    x: 192
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_230
+    hashCode: 1743387067
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300460, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 231
+    x: 224
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_231
+    hashCode: 1743387066
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300462, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 232
+    x: 256
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_232
+    hashCode: 1743387065
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300464, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 233
+    x: 288
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_233
+    hashCode: 1743387064
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300466, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 234
+    x: 320
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_234
+    hashCode: 1743387071
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300468, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 235
+    x: 352
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_235
+    hashCode: 1743387070
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300470, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 236
+    x: 384
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_236
+    hashCode: 1743387069
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300472, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 237
+    x: 416
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_237
+    hashCode: 1743387068
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300474, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 238
+    x: 448
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_238
+    hashCode: 1743387059
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300476, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 239
+    x: 480
+    y: 32
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_239
+    hashCode: 1743387058
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300478, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 240
+    x: 0
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_240
+    hashCode: 1743387036
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300480, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 241
+    x: 32
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_241
+    hashCode: 1743387037
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300482, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 242
+    x: 64
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_242
+    hashCode: 1743387038
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300484, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 243
+    x: 96
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_243
+    hashCode: 1743387039
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300486, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 244
+    x: 128
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_244
+    hashCode: 1743387032
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300488, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 245
+    x: 160
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_245
+    hashCode: 1743387033
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300490, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 246
+    x: 192
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_246
+    hashCode: 1743387034
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300492, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 247
+    x: 224
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_247
+    hashCode: 1743387035
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300494, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 248
+    x: 256
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_248
+    hashCode: 1743387028
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300496, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 249
+    x: 288
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_249
+    hashCode: 1743387029
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300498, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 250
+    x: 320
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_250
+    hashCode: 1743387133
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300500, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 251
+    x: 352
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_251
+    hashCode: 1743387132
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300502, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 252
+    x: 384
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_252
+    hashCode: 1743387135
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300504, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 253
+    x: 416
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_253
+    hashCode: 1743387134
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300506, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 254
+    x: 448
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_254
+    hashCode: 1743387129
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300508, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  - id: 255
+    x: 480
+    y: 0
+    width: 32
+    height: 32
+    xOffset: 0
+    yOffset: 28.8
+    xAdvance: 32
+    scale: 1
+    name: emojis_multiple_2_255
+    hashCode: 1743387128
+    unicode: 0
+    pivot: {x: 0, y: 28.8}
+    sprite: {fileID: 21300510, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+  fallbackSpriteAssets: []
+--- !u!21 &21615345743368046
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: 3a1c68c8292caf046bd21158886c5e40, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 133239b22ff382f408f54f1ab24fb82c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
